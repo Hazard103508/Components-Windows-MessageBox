@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d35f1beac17d254396b7448b42057a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonOk: {instanceID: 0}
+  - buttonCancel: {instanceID: 0}
+  - messageLabel: {instanceID: 0}
+  - iconImage: {instanceID: 0}
+  - prefab: {fileID: 3088732183623647272, guid: 5b32db648f2c7464ea19a7d0cf266485, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

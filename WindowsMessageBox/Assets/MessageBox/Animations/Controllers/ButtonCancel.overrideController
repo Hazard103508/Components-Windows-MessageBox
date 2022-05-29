@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonCancel
+  m_Controller: {fileID: 9100000, guid: 09afa99e3f68ea44da6cef970524ac58, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d47ba7fdbdb646a47ab5525346d39b88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9702cd7d62190fd4884314054dcb9333, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 646accb73e11d924da90538c12379247, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cbd5ef835cfadc24db7a2ded025ec60e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0f8783076162ddc46890c50882b79649, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c76ff7c846e7bb40a64c4ebec379241, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b2abde4d85cb91745872f814b54e3b27, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dd05dbfde68011f48ba375c89ce7ce4d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 06b4c97b62d398f41a4299c4b25962cb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f13ea5ae4aee8154eaf50068ce3eac42, type: 2}

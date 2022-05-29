@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonWindow
+  m_Controller: {fileID: 9100000, guid: 09afa99e3f68ea44da6cef970524ac58, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d47ba7fdbdb646a47ab5525346d39b88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 91a53ace173254c41872ff2f26e58d0b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 646accb73e11d924da90538c12379247, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f85e66bd9da32f4a83c083deca3c08c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0f8783076162ddc46890c50882b79649, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b8f23ae3e53056478f457b299e10956, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b2abde4d85cb91745872f814b54e3b27, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a8af07e9f74f4340bce2085da6fceb1, type: 2}
